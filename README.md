@@ -1,10 +1,10 @@
 # Salary Prediction
 The dataset is for MachineLearning Assingment 1 that contain informations about students in engineering.
 
-#Context
+# Context
 The dataset contains information related to Engineering students across different colleges and their salary. The goal of this project is to train some regression models that accurately predict the salary of students, analyze their results, assess their benefits and risks according to a business use case of your choice. The metric used to assess model performance is RMSE (root mean squared error).
 
-Data Dictionary:
+# Data Dictionary:
 - ID: A unique ID to identify a candidate
 
 - Salary: Annual salary offered to the candidate
